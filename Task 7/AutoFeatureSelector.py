@@ -14,6 +14,9 @@ from sklearn.ensemble import RandomForestClassifier
 from lightgbm import LGBMClassifier
 
 
+# By: Syed Hamza Ali
+
+
 # Cor Selector Function
 def cor_selector(X, y, num_feats):
     cor_list = []
